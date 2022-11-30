@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/oaes-front-end/static/css/main.073c9b0a.css",
-    "main.js": "/oaes-front-end/static/js/main.60dc8ea4.js",
-    "static/js/787.005b46f7.chunk.js": "/oaes-front-end/static/js/787.005b46f7.chunk.js",
-    "index.html": "/oaes-front-end/index.html",
-    "main.073c9b0a.css.map": "/oaes-front-end/static/css/main.073c9b0a.css.map",
-    "main.60dc8ea4.js.map": "/oaes-front-end/static/js/main.60dc8ea4.js.map",
-    "787.005b46f7.chunk.js.map": "/oaes-front-end/static/js/787.005b46f7.chunk.js.map"
+    "main.css": "/OAES-Front-End/static/css/main.073c9b0a.css",
+    "main.js": "/OAES-Front-End/static/js/main.064c90fc.js",
+    "static/js/787.005b46f7.chunk.js": "/OAES-Front-End/static/js/787.005b46f7.chunk.js",
+    "index.html": "/OAES-Front-End/index.html",
+    "main.073c9b0a.css.map": "/OAES-Front-End/static/css/main.073c9b0a.css.map",
+    "main.064c90fc.js.map": "/OAES-Front-End/static/js/main.064c90fc.js.map",
+    "787.005b46f7.chunk.js.map": "/OAES-Front-End/static/js/787.005b46f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.60dc8ea4.js"
+    "static/js/main.064c90fc.js"
   ]
 }
